@@ -1,0 +1,66 @@
+.myDivProfile{
+     padding-left: 60%;
+     width: 600px;
+     height: 400px;
+}
+
+.profilephoto{
+    height: 600px;
+    width: 400px;
+    position: absolute;
+    
+}
+
+.myDivBody{
+    width: 500px;
+    height: 700px;
+    padding-left: 150px;
+    padding-top: 150px;
+    position: absolute;
+    overflow: auto;
+}
+
+.location{
+
+    height: 23px;
+    width: 43px;
+    margin-left: 10px;
+
+}
+
+
+body{
+    background-color: #FFF8DC;
+}
+
+h1{
+    position: relative;
+    width: 500px;
+    height: 80px;
+
+}
+
+.hobbies{
+    margin-top: 20px;
+    width:500px;
+    position: absolute;
+    
+}
+
+ul{
+
+    margin-top: 50px;
+    width:500px;
+    position: absolute;
+}
+
+#ghlink{
+    margin-top: 160px;
+    width:500px;
+    position: absolute;
+}
+
+.ghlogo{
+    height: 50px;
+    width: 50px;
+}

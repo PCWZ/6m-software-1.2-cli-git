@@ -4,6 +4,11 @@ p {
 
 li {
     color:darkblue;
+    font-style: italic;
+}
+
+h1{
+    color: orangered;
 }
 
 h3 {
@@ -12,7 +17,7 @@ h3 {
 
 img {
     opacity: 0.8;
-    border-radius: 50%;
+    border-radius: 80%;
 }
 
 .avatar {
